@@ -1,2 +1,3 @@
-# Original code by adrianhajdin/project_openai_codex
+# Original code by adrianhajdin
+## Forked from adrianhajdin/project_openai_codex
 
