@@ -1,5 +1,9 @@
 # Original code by adrianhajdin
-## Forked from adrianhajdin/project_openai_codex
+
 
 ![Screenshot](AppScreen.png)
 
+## Future improvements
+- click to copy
+- note pad on side
+- navbar 
