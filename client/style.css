@@ -21,6 +21,28 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: rgba(221, 217, 233, 0.447);
+  padding: 10px;
+  font-size: 20px;
+  width: 100%;
+ display: inline-flex;
+
+}
+a:hover {
+  color: rgba(52, 12, 232, 0.686);
+}
+
+a {
+  text-decoration: none;
+  padding: 0 4rem;
+  color: #000000;
+font-weight: bold;
+}
+
 
 #chat_container {
   flex: 1;

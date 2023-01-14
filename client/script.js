@@ -86,7 +86,10 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://chatgpt-fq8y.onrender.com/', {   // url chages for deployment
+    const response = await 
+    fetch('https://chatgpt-fq8y.onrender.com/', {   // url chages for deployment
+    // fetch('http://localhost:5000/', {   // url chages for dev
+
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
