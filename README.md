@@ -1,4 +1,4 @@
-# Original code by adrianhajdin
+# Original code by hamza nachite
 
 
 ![Screenshot](AppScreen.png)
